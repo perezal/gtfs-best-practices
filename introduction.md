@@ -38,15 +38,15 @@ These practices help maintain the ability for a human reader to unzip and examin
 
 <span class="tag arrival-predictions"></span>
 
-These practices allow arrival prediction software to create real-time arrival estimates related to the schedules in [`trips.txt`](#trips) and [`stop_times.txt`](#stop-times).
+These practices allow arrival prediction software to create real-time arrival estimates related to the schedules in [`trips.txt`](/best-practices/trips) and [`stop_times.txt`](/best-practices/stop-times).
 
 <span class="tag timetables"></span>
 
 These practices support the creation of HTML timetables based on GTFS, such as with the GTFS-to-HTML software.
 
-<h2 id="about">About This Document</h2>
+## About This Document
 
-<h3 id="objectives">Objectives</h3>
+### Objectives
 
 The objectives of maintaining GTFS Best Practices is to:
 
@@ -54,11 +54,11 @@ The objectives of maintaining GTFS Best Practices is to:
 * Make it easier for software developers to deploy and scale applications, products, and services
 * Facilitate the use of GTFS in various application categories (beyond its original focus on trip planning)
 
-<h3 id="amend">How to propose or amend published GTFS Best Practices</h3>
+### How to propose or amend published GTFS Best Practices
 
 GTFS applications and practice evolve, and so this document may need to be amended from time to time. To propose an amendment to this document, open a pull request [in the GTFS Best Practices GitHub repository](https://github.com/rocky-mountain-institute/gtfs-best-practices) and advocate for the change. The GTFS Best Practices Working Group will meet quarterly to discuss and approve selected changes. Please send other questions or suggestions to [gtfs@rmi.org](mailto:gtfs@rmi.org).
 
-<h2 id="working-group">GTFS Best Practices Working Group</h2>
+## GTFS Best Practices Working Group
 
 The GTFS Best Practices Working Group consists of public transportation providers, developers of GTFS-consuming applications, consultants, and academic organizations to define common practices and expectations for GTFS data. The goals of this working group are to support greater interoperability of data data. To join the working group, email [gtfs@rmi.org](mailto:gtfs@rmi.org).
 
@@ -82,6 +82,6 @@ Members of this working group include:
 * [World Bank](http://www.worldbank.org/)
 
 <figure>
-  <a href="http://www.rmi.org/mobility"><img id="rmi-logo" src="/best-practices/images/rmi-small.png" alt="The Rocky Mountain Institute Mobility Transformation" width="240" height="63" border="0" style="height:63px;width:240px;"></a>
+  <a href="http://www.rmi.org/mobility" style="background-color: initial;"><img id="rmi-logo" src="/best-practices/images/rmi-small.png" alt="The Rocky Mountain Institute Mobility Transformation" width="240" height="63" border="0" style="height:63px;width:240px;"></a>
   <figcaption>The GTFS Best Practices Working Group is convened and facilitated by <a href="http://rmi.org/ITD">Rocky Mountain Institute</a> (RMI),an independent nonprofit founded in 1982. RMI is working to transform global energy use to create a clean, prosperous, and secure low-carbon future. It engages businesses, communities, institutions, and entrepreneurs to accelerate the adoption of market-based solutions that cost-effectively shift from fossil fuels to efficiency and renewables. RMI has offices in Basalt and Boulder, Colorado; New York City; Washington, D.C.; and Beijing.</figcaption>
 </figure>

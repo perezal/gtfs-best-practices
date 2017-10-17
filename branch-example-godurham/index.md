@@ -1,5 +1,6 @@
 ---
 layout: best-practices
+permalink: "/best-practices/branch-example-godurham/"
 ---
 
 # GoDurham Transit Routes 2, 2A, and 2B

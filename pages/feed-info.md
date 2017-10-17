@@ -1,6 +1,6 @@
 ---
 layout: best-practices
-permalink: /best-practices/feed_info/
+permalink: /best-practices/feed-info/
 
 table_data:
   feed_publisher_name:
@@ -21,7 +21,13 @@ table_data:
     8: "Should be included."
 ---
 
-### feed_info.txt
+## feed_info.txt
+
+
+<span class="tag trip-planners"></span>
+<span class="tag human-readability"></span>
+
+`feed_info.txt` should be included, with all fields below. <!-- (20) -->
 
 <table class="recommendation">
   <thead>
@@ -46,10 +52,6 @@ table_data:
 
 <h3 id="feed-info">feed_info.txt</h3>
 
-<span class="tag trip-planners"></span>
-<span class="tag human-readability"></span>
-
-`feed_info.txt` should be included, with all fields below. <!-- (20) -->
 
 <table class="recommendation">
   <thead>
